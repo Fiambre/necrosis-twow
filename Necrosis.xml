@@ -4,6 +4,8 @@
 	<Script file="Localization-dialog-fr.lua"/>
 	<Script file="Localization-functions-en.lua"/>
 	<Script file="Localization-dialog-en.lua"/>
+	<Script file="Localization-functions-es.lua"/>
+	<Script file="Localization-dialog-es.lua"/>
 	<Script file="Localization-functions-de.lua"/>
 	<Script file="Localization-dialog-de.lua"/>
 	<Script file="Speech.lua"/>
