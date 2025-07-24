@@ -41,7 +41,7 @@ NECROSIS_ANTI_FEAR_SPELL = {
 
 	-- Debuffs and curses giving temporary immunity to fear effects
 	["Debuff"] = {
-		"Curse of Temeridad"		-- Warlock curse
+		"Maldición de temeridad"		-- Warlock curse
 	}
 };
 
@@ -79,7 +79,7 @@ NECROSIS_SPELL_TABLE = {
 	[12] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Inmolar",			Length = 15,	Type = 5},
 	[13] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
-		Name = "Fear",				Length = 15,	Type = 5},
+		Name = "Miedo",				Length = 15,	Type = 5},
 	[14] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Corrupción",			Length = 17,	Type = 5},
 	[15] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
@@ -101,7 +101,7 @@ NECROSIS_SPELL_TABLE = {
 	[23] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Maldición de debilidad",		Length = 120,	Type = 4},
 	[24] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
-		Name = "Curse of Temeridad",		Length = 120,	Type = 4},
+		Name = "Maldición de temeridad",		Length = 120,	Type = 4},
 	[25] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Maldición de las Lenguas",		Length = 30,	Type = 4},
 	[26] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
@@ -141,7 +141,7 @@ NECROSIS_SPELL_TABLE = {
 	[43] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Resguardo de las Sombras",			Length = 30,	Type = 3},
 	[44] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
-		Name = "Demonic Sacrificio",		Length = 0,	Type = 0},
+		Name = "Sacrificio demoníaco",		Length = 0,	Type = 0},
 
 };
 -- Type 0 = Pas de Timer
